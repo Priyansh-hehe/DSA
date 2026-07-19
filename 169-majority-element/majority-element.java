@@ -13,6 +13,7 @@ class Solution {
             } else {
                 count--;
             }
+            
         }
         
         return candidate;
